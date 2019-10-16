@@ -6,5 +6,3 @@ class DockingStation
     Bike.new
   end
 end
-
-hello
